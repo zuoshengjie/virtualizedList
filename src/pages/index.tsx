@@ -10,6 +10,9 @@ const itemHeight = 30;
 
 // 基于marginTop的虚拟滚动
 // export default function IndexPage() {
+//   const data = useMemo(() => {
+//     return baseData;
+//   }, []);
 //   const [showListData, setShowListData] = useState(data.slice(0, 20));
 //   const [top, setTop] = useState(0);
 
